@@ -1,4 +1,4 @@
-# Updating the "Send Message" functionality
+# Updating the Send Message Functionality
 
 ## Learning Goals
 
